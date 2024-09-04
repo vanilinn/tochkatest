@@ -1,0 +1,61 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.coverage
+*.tox/
+*.nox/
+*.hypothesis/
+*.mypy_cache/
+.dmypy.json
+.env
+*.egg-info/
+*.egg
+
+# Virtualenv
+venv/
+ENV/
+env/
+.venv/
+.env/
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Docker
+docker-compose.override.yml
+docker-compose.local.yml
+Dockerfile.dev
+*.dockerignore
+
+# Celery
+celerybeat-schedule
+*.pid
+*.log
+
+# PostgreSQL
+*.sql
+*.sqlite3
+pgdata/
+
+# Misc
+*.DS_Store
+*.directory
+*.swo
+*.swp
+*.sublime-workspace
+*.sublime-project
+*.tmproj
+*.project
+
+# Local configurations
+local_settings.py
+config.yaml
