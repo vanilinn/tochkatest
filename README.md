@@ -17,8 +17,8 @@
 1. **Клонируйте репозиторий:**
 
     ```bash
-    git clone https://github.com/yourusername/yourproject.git
-    cd yourproject
+    git clone https://github.com/vanilinn/tochkatest
+    cd tochkatest
     ```
 
 2. **Создайте и активируйте виртуальное окружение:**
